@@ -1,7 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Muhammad Shoaib kalim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
   <img align="right" alt="coding" width=400" src="https://github.com/muhammadshoaibkalim/muhammadshoaibkalim/assets/120046632/ec913c3d-3aa4-4bb5-9bcc-398d08a27c0a">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshoaibkalim&label=Profile%20views&color=0e75b6&style=flat" alt="mshoaibkalim" /> </p>
 
 - 🌱 I’m currently learning **DSA and Full stack Mern Development**
@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshoaibkalim&show_icons=true&locale=en&layout=compact" alt="mshoaibkalim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshoaibkalim&show_icons=true&locale=en" alt="mshoaibkalim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshoaibkalim&" alt="mshoaibkalim" /></p>
